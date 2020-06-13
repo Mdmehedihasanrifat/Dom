@@ -21,3 +21,22 @@ ulll.style.background="red";
 let sd=document.getElementById('ul1').style.background="red";
 
 document.getElementsByClassName("li3")[0].style.background="red";
+document.querySelector("h1").innerText="Hello Nsu";
+document.querySelector("h1").innerHTML="<h2>hello</h2>";
+
+var link=document.querySelector("a");
+// link.getAttribute("href");
+// link.setAttribute("href","facebook.com");
+link.setAttribute("href","www.facebook.com");
+console.log(link);
+
+var button=document.querySelector('button');
+
+
+
+button.addEventListener("click", function (){
+body.style.background="pink";
+
+}
+
+);

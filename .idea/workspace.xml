@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1061640e-4dd0-45c5-9919-9e4e877a90ed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/score.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/socrejs.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
@@ -48,6 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1591979790327</updated>
       <workItem from="1591979792156" duration="2865000" />
+      <workItem from="1592027094157" duration="7201000" />
     </task>
     <servers />
   </component>
